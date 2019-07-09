@@ -1,0 +1,23 @@
+{
+  "name": "Perennial-Blockchain",
+  "version": "1.0.0",
+  "description": "Creating my first cryptocurrency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Deep15P/Perennial-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Deep15P/Perennial-Blockchain/issues"
+  },
+  "homepage": "https://github.com/Deep15P/Perennial-Blockchain#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
